@@ -1,0 +1,1 @@
+This is my Note Pad<div><br></div><div><b>bold</b></div><div><i>italic</i></div><div><u>underline</u></div><div><b><i><u>all&nbsp;together</u></i></b></div><div><b><i><u><br></u></i></b></div><h1>It has headings 1,</h1><h2>headings 2,</h2><h3>and headings 3</h3><p>and normal text of course</p><div><br></div><div>~ By Paulo ~</div>

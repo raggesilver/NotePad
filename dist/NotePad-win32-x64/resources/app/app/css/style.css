@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+.editor {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  width: 100%;
+  min-height: 100%;
+  padding: 1cm;
+  color: #494949;
+  background-color: #efd565;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
