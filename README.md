@@ -24,7 +24,7 @@ P.S. It auto-saves, so if you are a Ctrl + S addicted this might either help or 
 
 ## Installation
 
-You can grab the folder for you OS from the [dist](dist/) folder or you can download the whole thing (in which case you must have NodeJs and NPM installed) and:
+You can grab the folder for you OS from the [releases](https://github.com/raggesilver/NotePad/releases) page or you can download the whole thing (in which case you must have NodeJs and NPM installed) and:
 
 ```bash
 npm install
