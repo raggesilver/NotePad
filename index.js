@@ -1,13 +1,12 @@
 const {app} = require('electron');
 const {BrowserWindow} = require('electron');
-require('electron-debug')({showDevTools: true});
 
 app.on('window-all-closed', () => {
   app.quit();
 });
 
 app.on('ready', () => {
-  let win = new BrowserWindow({width: 800, height: 600});
+  let win = new BrowserWindow({width: 800, height: 600, autoHideMenuBar: true});
   win.on('closed', () => {
     win = null;
   });

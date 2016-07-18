@@ -12,7 +12,7 @@ function open() {
       var text = fs.readFileSync(__dirname + "/document.txt", "utf8");
       document.getElementById('editor').innerHTML = text;
     } else {
-      alert(err);
+      console.log(err);
     }
   });
 }
